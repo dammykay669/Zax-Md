@@ -27,11 +27,11 @@
     }, 
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "+"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comm \",\")",
-      "value": "255688950205"
+      "value": "2349021035544"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -70,12 +70,12 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
-      "value": "available"
+      "value": ""
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required" :false,
-      "value": "true"
+      "value": ""
     }, 
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
